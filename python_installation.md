@@ -7,7 +7,7 @@ Cara menambahkan python yang sudah terinstall pada PATH, berikut langkah - langk
 1. buka "edit the system environtment variable" pada Windows.
    ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/73fce11b-1e20-4396-81d0-23c0c734aa10)
 
-2. click "environment variables"
+2. click "environment variables" pada System properties
    ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/d879be73-4969-4da3-a11c-554a53f1218c)
    
 3. buka Path pada user variables untuk user
