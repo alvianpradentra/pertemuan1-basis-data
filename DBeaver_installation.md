@@ -36,5 +36,3 @@ Cara untuk menginstall DBeaver, berikut langkah-langkahnya:
 
 12. berikut adalah tampilan awal dari DBeaver.
   ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/1249ef37-33b8-4d42-9e72-6a0e2bdc559f)
-
-asa
