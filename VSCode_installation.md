@@ -1,10 +1,10 @@
 Cara untuk menginstall Visual Studio Code, berikut langkah-langkahnya: 
 1. buka laman Visual Studio Code pada Browser, atau click link disamping ini [VisualStudioCode](https://code.visualstudio.com/).
 2. buka laman Download pada website Visual Studio Code, lalu download Visual Studio Code sesuai dengan OS yang digunakan.
-  - [Windows x64](https://code.visualstudio.com/download#)
-  - [Debian, Ubuntu x64](https://code.visualstudio.com/download#)
-  - [RedHat, Fedora, SUSE x64](https://code.visualstudio.com/download#)
-  - [MacOS universal](https://code.visualstudio.com/download#)
+  - [Windows](https://code.visualstudio.com/download#)
+  - [Debian, Ubuntu](https://code.visualstudio.com/download#)
+  - [RedHat, Fedora, SUSE](https://code.visualstudio.com/download#)
+  - [MacOS](https://code.visualstudio.com/download#)
   ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/048cc5cc-a0d7-4a8f-beb3-0d2bbc143c54)
 
 3. Click pada file installer yang sudah didownload tadi. File bernama VSCodeUserSetup-{versi}.exe
