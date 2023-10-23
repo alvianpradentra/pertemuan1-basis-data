@@ -1,4 +1,4 @@
-![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/42f2b477-edb6-41f0-98fb-a86784e696d4)Cara untuk menginstall PostgreSQL, berikut langkah-langkahnya:
+Cara untuk menginstall PostgreSQL, berikut langkah-langkahnya:
 1. buka laman [PostgreSQL](https://www.postgresql.org/).
   ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/0d88658c-7926-4a0b-8073-f72739ef3440)
 
