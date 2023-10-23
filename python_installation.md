@@ -5,9 +5,11 @@ Cara menginstall Python versi 3.12 pada Windows, berikut langkah-langkahnya:
 
 Cara menambahkan python yang sudah terinstall pada PATH, berikut langkah - langkahnya:
 1. buka "edit the system environtment variable" pada Windows.
-2. click "environment variables".
-   ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/d879be73-4969-4da3-a11c-554a53f1218c)
+   ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/73fce11b-1e20-4396-81d0-23c0c734aa10)
 
+2. click "environment variables"
+   ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/d879be73-4969-4da3-a11c-554a53f1218c)
+   
 3. buka Path pada user variables untuk user
    ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/c61563e6-1725-4245-ab70-f0dd297b9df6)
 
