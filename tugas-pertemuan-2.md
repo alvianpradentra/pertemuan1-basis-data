@@ -36,3 +36,6 @@
 
    - Tampilan pada pgAdmin4
      ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/98b2fd37-436b-4532-96bd-89a392d2519c)
+
+   - Tampilan pada DBeaver
+     ![image](https://github.com/alvianpradentra/pertemuan1-basis-data/assets/148189829/75a3b9bd-2f75-4d65-a339-6a581497a573)
